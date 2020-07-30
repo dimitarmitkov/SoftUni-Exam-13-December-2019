@@ -1,0 +1,12 @@
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/bin/Debug/netcoreapp2.1/BookShop.deps.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/bin/Debug/netcoreapp2.1/BookShop.runtimeconfig.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/bin/Debug/netcoreapp2.1/BookShop.runtimeconfig.dev.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/bin/Debug/netcoreapp2.1/BookShop.dll
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/bin/Debug/netcoreapp2.1/BookShop.pdb
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/obj/Debug/netcoreapp2.1/BookShop.csprojAssemblyReference.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/obj/Debug/netcoreapp2.1/BookShop.AssemblyInfoInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/obj/Debug/netcoreapp2.1/BookShop.AssemblyInfo.cs
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/obj/Debug/netcoreapp2.1/BookShop.csproj.CoreCompileInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/obj/Debug/netcoreapp2.1/BookShop.dll
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/obj/Debug/netcoreapp2.1/BookShop.pdb
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_Dec_2019/01. Model Defition_Skeleton/BookShop/obj/Debug/netcoreapp2.1/BookShop.genruntimeconfig.cache

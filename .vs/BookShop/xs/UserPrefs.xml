@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{48DA9A16-0B45-4C96-9C1C-AE6433667B1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookShop/Data/BookShopContext.cs">
+    <Files>
+      <File FileName="BookShop/StartUp.cs" Line="27" Column="65" />
+      <File FileName="BookShop/Data/Models/Author.cs" Line="37" Column="76" />
+      <File FileName="BookShop/Data/Models/AuthorsBooks.cs" Line="12" Column="25" />
+      <File FileName="BookShop/Data/Models/Book.cs" Line="12" Column="61" />
+      <File FileName="BookShop/Data/BookShopContext.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookShop" expanded="True">
+            <Node name="BookShop" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="BookShopContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="BookShop" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BookShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
