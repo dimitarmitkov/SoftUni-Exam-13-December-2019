@@ -6,6 +6,6 @@ namespace BookShop.Data.Models.Enums
 
         Biography = 1,
         Business = 2,
-        Science = 3
+        Science = 3,
     }
 }

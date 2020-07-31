@@ -1,0 +1,32 @@
+﻿namespace BookShop.DataProcessor.ImportDto
+{
+    using System.Xml.Serialization;
+    using BookShop.Data.Models.Enums;
+
+    [XmlType("Book")]
+    public class ImportBooksDto
+    {
+        [XmlElement("Name")]
+        public string Name { get; set; }
+
+        [XmlElement("Genre")]
+        public Genre Genre { get; set; }
+
+        [XmlElement("Price")]
+        public decimal Price { get; set; }
+
+        [XmlElement("Pages")]
+        public int Pages { get; set; }
+
+        [XmlElement("PublishedOn")]
+        public string PublishedOn { get; set; }
+
+    }
+}
+//<Book>
+//    <Name>Hairy Torchwood</Name>
+//    <Genre>3</Genre>
+//    <Price>41.99</Price>
+//    <Pages>3013</Pages>
+//    <PublishedOn>01/13/2013</PublishedOn>
+//  </Book>

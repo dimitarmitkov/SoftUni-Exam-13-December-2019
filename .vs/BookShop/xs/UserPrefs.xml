@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{48DA9A16-0B45-4C96-9C1C-AE6433667B1F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookShop/Data/BookShopContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookShop/DataProcessor/ImportDto/AuthorDto.cs">
     <Files>
-      <File FileName="BookShop/StartUp.cs" Line="27" Column="65" />
-      <File FileName="BookShop/Data/Models/Author.cs" Line="37" Column="76" />
-      <File FileName="BookShop/Data/Models/AuthorsBooks.cs" Line="12" Column="25" />
-      <File FileName="BookShop/Data/Models/Book.cs" Line="12" Column="61" />
-      <File FileName="BookShop/Data/BookShopContext.cs" Line="24" Column="1" />
+      <File FileName="BookShop/StartUp.cs" Line="19" Column="62" />
+      <File FileName="BookShop/Data/Models/Author.cs" Line="28" Column="42" />
+      <File FileName="BookShop/Data/Models/AuthorsBooks.cs" Line="3" Column="28" />
+      <File FileName="BookShop/Data/Models/Book.cs" Line="26" Column="46" />
+      <File FileName="BookShop/Data/BookShopContext.cs" Line="31" Column="43" />
+      <File FileName="BookShop/DataProcessor/Deserializer.cs" Line="43" Column="49" />
+      <File FileName="BookShop/DataProcessor/ImportDto/AuthorDto.cs" Line="26" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,16 +15,25 @@
           <Node name="BookShop" expanded="True">
             <Node name="BookShop" expanded="True">
               <Node name="Data" expanded="True">
-                <Node name="Models" expanded="True" />
-                <Node name="BookShopContext.cs" selected="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Enums" expanded="True" />
+                </Node>
               </Node>
+              <Node name="DataProcessor" expanded="True">
+                <Node name="ImportDto" expanded="True">
+                  <Node name="AuthorDto.cs" selected="True" />
+                </Node>
+                <Node name="XMLHelper" expanded="True" />
+              </Node>
+              <Node name="Datasets" expanded="True" />
+              <Node name="ImportResults" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
-          <Node name="BookShop" expanded="True" selected="True" />
+          <Node name="BookShop" selected="True" />
         </State>
       </Pad>
     </Pads>

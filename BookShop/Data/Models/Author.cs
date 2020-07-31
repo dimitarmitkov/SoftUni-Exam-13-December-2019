@@ -30,7 +30,7 @@
         public string Email { get; set; }
 
         [Required]
-        [RegularExpression(@"[0-9]{3}-[0-9]{3}-[0-9]{4}",
+        [RegularExpression(@"^[0-9]{3}-[0-9]{3}-[0-9]{4}$",
          ErrorMessage = "Characters are not allowed.")]
         public string Phone { get; set; }
 
